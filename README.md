@@ -9,15 +9,15 @@ If it isn't the same color then you will lose a life, you have 3. If you lose al
 
 Have fun!
 
-![Picture 1: Ingame screenshot](/Cuberoll Screenshots/001.png)
+![Picture 1: Ingame screenshot](https://github.com/Andreas001/Cuberoll/blob/master/Cuberoll%20Screenshots/001.png)
 
 Picture 1 shows how Cuberoll looks like
 
-![Picture 2: Rotate directions](/Cuberoll Screenshots/002.png)
+![Picture 2: Rotate directions](https://github.com/Andreas001/Cuberoll/blob/master/Cuberoll%20Screenshots/002.png)
 
 Picture 2 shows what directions you can rotate the cube
 
-![Picture 3: Playing the game](/Cuberoll Screenshots/001_g.png)
+![Picture 3: Playing the game](https://github.com/Andreas001/Cuberoll/blob/master/Cuberoll%20Screenshots/001_g.gif)
 
 Picture 3 shows how the game will play
 
